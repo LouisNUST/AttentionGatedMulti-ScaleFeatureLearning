@@ -1,1 +1,3 @@
 # AttentionGatedMulti-ScaleFeatureLearning
+
+The code will be released soon after the deadline of CVPR 2018 ...
